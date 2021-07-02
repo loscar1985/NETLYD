@@ -1,8 +1,8 @@
 # NETLYD
-
-#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="INFANTIL",NICKTOONS*
-http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/33728
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="INFANTIL",TOONCAST
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="⚡ INFANTILES - KIDS",TOONCAST
+http://51.222.85.225:25461/IPTVJUAN/7V4EcgZR3t/2083
+#EXTINF:-1 tvg-id="" tvg-name="USA | CARTOON NETWORK HD" tvg-logo="" group-title="USA PREMIUM",USA | CARTOON NETWORK HD
+http://51.222.85.225:25461/IPTVJUAN/7V4EcgZR3t/2597
 
 
 
